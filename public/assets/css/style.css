@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(127, 255, 212, 0.529);
+}
+
+.container{
+    padding-top: 80px;
+}
+.card{
+    width: 550px;
+    /* margin: 20px; */
+}
+
+.title{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 23px;
+    
+}
+
+.title1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    color: #afafaf;
+    transform: translateY(-5px);
+
+}
+
+
+.card-title2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+}
+
+.total-plants{
+    font-family: 'Ubuntu', sans-serif;
+    color: green;
+    font-size: 35px;
+
+}
+
+.form{
+    padding: 5px;
+}
